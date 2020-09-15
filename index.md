@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-Check out my GitHub content about Operating System Class [GitHub](https://github.com/kukuhhafiyyan/os202)
+Check out my [GitHub](https://github.com/kukuhhafiyyan/os202) content about Operating System Class
 
 ### Markdown
 
