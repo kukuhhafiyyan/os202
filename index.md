@@ -6,12 +6,13 @@ Check out my [GitHub](https://github.com/kukuhhafiyyan/os202) content about Oper
 
 Here is my weekly update about what i learned in operating system class.
 
+'''
 ## **WEEK 0**
 
 
 ## **WEEK 1**
 
-
+'''
 
 
 
