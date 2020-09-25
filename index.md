@@ -2,14 +2,14 @@
 
 Check out my [GitHub](https://github.com/kukuhhafiyyan/os202) content about Operating System Class
 
-### Markdown
+### WEEKLY TOP 10
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is my weekly update about what i learned in operating system class.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# WEEK 1
 ## Header 2
 ### Header 3
 
