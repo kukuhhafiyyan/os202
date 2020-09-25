@@ -7,10 +7,10 @@ Check out my [GitHub](https://github.com/kukuhhafiyyan/os202) content about Oper
 Here is my weekly update about what i learned in operating system class.
 
 ```markdown
-## **WEEK 0**
+__WEEK 0__
 
 
-## **WEEK 1**
+__WEEK 1__
 
 ```
 
