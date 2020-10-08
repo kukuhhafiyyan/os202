@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES=FILES="my*.txt my*.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
