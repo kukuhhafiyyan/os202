@@ -15,4 +15,4 @@ Here is my weekly update about what i learned in operating system class.
 
 [__WEEK 3__](https://kukuhhafiyyan.github.io/os202/w03)
 
-[__WEEK 3__](https://kukuhhafiyyan.github.io/os202/w04)
+[__WEEK 4__](https://kukuhhafiyyan.github.io/os202/w04)
