@@ -27,3 +27,5 @@ Here is my weekly update about what i learned in operating system class.
 
 [__WEEK 9__](https://kukuhhafiyyan.github.io/os202/w09)
 
+[__WEEK 10__](https://kukuhhafiyyan.github.io/os202/w10)
+
